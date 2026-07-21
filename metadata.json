@@ -1,0 +1,6 @@
+{
+  "name": "Materi Canva SMA",
+  "description": "Modul interaktif pembelajaran dasar desain grafis dan Canva untuk siswa SMA Kelas X.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
